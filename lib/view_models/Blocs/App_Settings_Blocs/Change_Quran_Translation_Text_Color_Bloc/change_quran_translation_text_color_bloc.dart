@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:ui';
 
 import 'package:bloc/bloc.dart';
-_Arabic_Quran_Text_Color_Bloc/change_arabic_quran_text_color_bloc.dart';
+import 'package:flutter_quran_api_practice/utils/my_custom_colors.dart';
 import 'package:meta/meta.dart';
 
 part 'change_quran_translation_text_color_event.dart';
